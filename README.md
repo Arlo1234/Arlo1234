@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arlo1234
 - 👀 I’m interested in python programming.
-- 🌱 I’m currently learning at school and dosent spend much time on code. 
+- 🌱 I’m currently learning at school and do not spend much time on code. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
